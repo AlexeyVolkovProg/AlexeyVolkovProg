@@ -1,4 +1,4 @@
-- Hi, I’m @AlexeyVolkovProg
+ Hi, I’m @AlexeyVolkovProg
 - 👀 I’m interested in Backend
 - 🌱 I’m currently studying in ITMO SYSTEM AND APPLICATION SOFTWARE
 - 💞️ I’m looking to collaborate on interesting projects and internships
