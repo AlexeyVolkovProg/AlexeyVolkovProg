@@ -1,7 +1,6 @@
   Hi, I’m @AlexeyVolkovProg
 -  I’m interested in Backend
 -  Tinkoff Student
--  ITMO Student 
 -  I’m currently studying in ITMO SYSTEM AND APPLICATION SOFTWARE
 -  I’m looking to collaborate on interesting projects and internships
 -  Telegram: @developing_warrior
