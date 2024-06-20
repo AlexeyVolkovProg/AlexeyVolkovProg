@@ -1,5 +1,3 @@
-Alexey Volkov
-<!-- ![](https://komarev.com/ghpvc/?username=Azat2202) -->
 
 [Telegram](https://t.me/developing_warrior)
 
