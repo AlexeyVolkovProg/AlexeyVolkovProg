@@ -3,7 +3,7 @@
 
 [Vk](https://vk.com/developing_warrior)
 
-[CV](https://drive.google.com/file/d/1-2Z9mZgDXT8e4ET2uuT-5H-emM6w1-LE/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1dKVEXbO5g3xU73al280VtmezjtpkutZX/view?usp=sharing)
 <h3 align="left">Languages and Tools:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
