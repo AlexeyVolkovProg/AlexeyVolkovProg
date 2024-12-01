@@ -1,4 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Alexey Volkov</h1>
+<p align="center">
+  I am a Middle Java Developer with a focus on building robust and scalable backend systems. <br>
+  I love exploring new technologies and constantly developing myself.
+</p>
 
 <div align="center">
   <a href="https://t.me/developing_warrior">
@@ -43,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sladkkkov&layout=compact&theme=dark&hide_border=true&hide=html" alt="Top Languages" width="444"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sladkkkov&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,less" alt="Top Languages" width="444"/>
 </div>
 
 ---
