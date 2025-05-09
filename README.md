@@ -43,10 +43,6 @@
 <h3 align="center">GitHub Stats:</h3>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sladkkkov&theme=dark" alt="GitHub Streak"  width="444"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sladkkkov&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,less" alt="Top Languages" width="444"/>
 </div>
 
