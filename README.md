@@ -37,17 +37,6 @@
 ![Maven](https://img.shields.io/badge/apache%20maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 </div>
-
----
-
-<h3 align="center">GitHub Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sladkkkov&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,less" alt="Top Languages" width="444"/>
-</div>
-
----
-
 <!---
 AlexeyVolkovProg/AlexeyVolkovProg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
