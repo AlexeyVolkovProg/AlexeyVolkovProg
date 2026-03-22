@@ -1,6 +1,6 @@
 <h1 align="center">Alexey Volkov</h1>
 <p align="center">
-  I am a Middle Java Developer with a focus on building robust and scalable backend systems. <br>
+  I am a Java Developer with a focus on building robust and scalable backend systems. <br>
   I love exploring new technologies and constantly developing myself.
 </p>
 
