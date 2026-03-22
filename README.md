@@ -3,19 +3,6 @@
   I am a Java Developer with a focus on building robust and scalable backend systems. <br>
   I love exploring new technologies and constantly developing myself.
 </p>
-
-<div align="center">
-  <a href="https://t.me/developing_warrior">
-    <img src="https://img.shields.io/badge/telegram-%2300A6E3.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: middle;">
-  </a>
-  <a href="https://vk.com/developing_warrior">
-    <img src="https://img.shields.io/badge/vk-%23007AFF.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK" style="vertical-align: middle;">
-  </a>
-  <a href="https://drive.google.com/file/d/1dKVEXbO5g3xU73al280VtmezjtpkutZX/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-%23FFA500.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" style="vertical-align: middle;">
-  </a>
-</div>
-
 ---
 
 <h3 align="center">Languages and Tools:</h3>
