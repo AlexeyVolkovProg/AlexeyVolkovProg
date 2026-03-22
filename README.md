@@ -3,7 +3,6 @@
   I am a Java Developer with a focus on building robust and scalable backend systems. <br>
   I love exploring new technologies and constantly developing myself.
 </p>
----
 
 <h3 align="center">Languages and Tools:</h3>
 
